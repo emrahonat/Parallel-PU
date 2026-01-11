@@ -1,9 +1,14 @@
-=========================================================================
+===================================================================
 Parallelization of Path Following Based Phase Unwrapping Algorithms
-=========================================================================
+===================================================================
+
+Keywords
+--------
+SAR Interferometry (InSAR/IFSAR), Phase Unwrapping, Parallelization, OpenMP
+
 
 Overview
----------
+--------
 This repository currently includes only the main.m file.
 The purpose of this file is to provide an overview of the academic work and its implementation framework.
 All MATLAB files related to the parallel phase unwrapping algorithms developed in this study will be uploaded after the corresponding paper is accepted for publication.
